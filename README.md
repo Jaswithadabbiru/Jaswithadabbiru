@@ -1,46 +1,63 @@
-# 👋 Hi, I’m @Jaswithadabbiru
+# 👋 Hello, I'm **Jaswitha Dabbiru**!
 
-- 👀 I’m interested in **Programming, Software Development, Data Structures & Algorithms, Web Development, Machine Learning, and Open-Source Contributions**.
-- 🌱 I’m currently learning **Java, Advanced Data Structures, Web Development, and Machine Learning**.
-- 💞️ I’m looking to collaborate on **open-source projects**, **machine learning applications**, and **web development projects**.
-- 📫 How to reach me: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/jaswithadabbiru/) or [Email](mailto:jaswithadabbiru@gmail.com).
-- 😄 Pronouns: **She/Her**.
-- ⚡ Fun fact: I love **coding challenges** and am actively learning how to build full-stack applications!
+I’m a passionate **2nd-year Computer Science Engineering (CSE)** student at **Vignan Institute of Engineering for Women**. I believe in the power of **technology** to create meaningful change, and I’m committed to improving my skills in **software development**, **machine learning**, and **open-source contributions**.
 
 ---
 
-## About Me
+## 🚀 What Drives Me:
 
-I’m a **2nd-year CSE student** at **Vignan Institute of Engineering for Women**. I’m passionate about learning new technologies, building real-world applications, and contributing to open-source projects. I recently contributed to the **GirlScript Summer of Code 2024** and am currently working on various open-source projects including **DevDocsHub**. My goal is to improve my skills in **Java**, **Web Development**, and **Machine Learning**, and eventually contribute to impactful projects.
-
----
-
-## Skills
-
-- **Languages**: Python, Java, C
-- **Tools**: Git, GitHub, Postman, VS Code
-- **Other**: Data Structures & Algorithms, Open-Source Contributions
+- **Curiosity**: I’m always seeking new challenges that stretch my problem-solving skills and expand my knowledge.
+- **Innovation**: I aspire to build **cutting-edge solutions** that make a difference in people's lives, whether through intelligent systems or impactful apps.
+- **Collaboration**: I love **working with like-minded people** on projects that inspire and push boundaries.
 
 ---
 
-## Current Projects
-
-1. **Helmet Wear Detection System** (Digital Version on Tinkercad)
-   - A system that ensures the helmet is worn before starting a vehicle. The project includes various sensors like **Ultrasonic, Force, IR, Flex**, and integrates with an **Arduino UNO**.
-
-2. **DevDocsHub** (Open-Source Project)
-   - A Django-based web application to centralize programming documentation and tutorials. Actively contributing and learning more about **Django** and **Web Development**.
+## 🔍 Areas of Interest:
+- **Software Development**: From **building scalable web applications** to solving algorithmic puzzles, I enjoy the entire development lifecycle.
+- **Open-Source**: Passionate about the **open-source ecosystem**, contributing to projects that benefit the global developer community.
 
 ---
 
-## Open-Source Contributions
-
-- Contributor to **GirlScript Summer of Code 2024 - Extended Edition (GSSoC Extd 2024)**
-- Contributor to **DevDocsHub** (a one-stop resource for programming documentation)
+## 🛠️ Skills & Technologies:
+- **Programming Languages**: Python, Java, C
+- **Tools**: Git, GitHub, VS Code, Postman, Tinkercad, spyder, Jupyter Notebook
+- **Other**: Data Structures & Algorithms, Competitive Programming, Software Development
 
 ---
 
-Thank you for visiting my profile! I’m always open to collaboration, so feel free to reach out. 🚀
+## 🌍 Notable Projects & Contributions:
+
+### **1. Helmet Wear Detection System** 🚲
+A safety-driven project that ensures a helmet is worn before the engine starts. Using **Arduino**, **Ultrasonic**, **Flex**, and **Force Sensors**, it promotes road safety in an innovative way.
+
+### **2. DevDocsHub** 📚
+An all-in-one **Django-based platform** that brings programming language documentation, open-source resources, and tutorials together. Currently working on enhancing its functionality and user experience.
+
+### **3. GirlScript Summer of Code 2024** 🌐
+Contributing to open-source through **GSSoC**, where I’m collaborating with developers worldwide on impactful projects, helping make knowledge and technology more accessible.
+
+---
+
+## 🛠️ My Development Journey:
+I’m currently focused on mastering **Java**, strengthening my skills in **Data Structures & Algorithms**, and diving into the world of **machine learning**. I also enjoy **solving coding challenges** and regularly participate in platforms like **LeetCode** and **CodeChef**.
+
+---
+
+## 🤝 Let’s Connect:
+I am always eager to collaborate on projects, contribute to open-source, or just share knowledge and ideas. If you're interested in discussing **technology**, **software development**, or **AI**, feel free to reach out:
+
+- **LinkedIn**: [Jaswitha Dabbiru](https://www.linkedin.com/in/jaswithadabbiru/)
+- **Email**: [jaswithadabbiru@gmail.com](mailto:jaswithadabbiru@gmail.com)
+
+---
+
+## ⚡ Fun Fact:
+When I’m not coding or working on projects, you’ll find me exploring the **latest in AI**, reading **tech blogs**, or learning about **emerging technologies**. And yes, I’m a big fan of **coding marathons** and **algorithmic puzzles** that keep me on my toes! 💻
+
+---
+
+Thank you for visiting my profile! If you share a passion for technology, innovation, or open-source, let’s connect and create something amazing together! 🌟
+
 
 Jaswithadabbiru/Jaswithadabbiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
