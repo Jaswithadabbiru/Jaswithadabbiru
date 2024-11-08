@@ -1,4 +1,6 @@
-# 👋 Hello, I'm **Jaswitha Dabbiru**!
+# 👋 Hello, I'm **Jaswitha Dabbiru**! ![Hi, waving hand](https://imgur.com/link_to_your_gif.gif)
+
+
 
 I’m a passionate **2nd-year Computer Science Engineering (CSE)** student at **Vignan Institute of Engineering for Women**. I believe in the power of **technology** to create meaningful change, and I’m committed to improving my skills in **software development**, **machine learning**, and **open-source contributions**.
 
