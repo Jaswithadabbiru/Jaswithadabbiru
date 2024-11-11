@@ -7,16 +7,9 @@
 <div align="center">
 <div align="center">
 
-
-# Badge Links
-
-Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
@@ -29,9 +22,6 @@ Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
-
-https://gssoc.girlscript.tech/leaderboard?year=<7>&jaswithadabbiru=<jaswithadabbiru>
 
 I’m a passionate **2nd-year Computer Science Engineering (CSE)** student at **Vignan Institute of Engineering for Women**. I believe in the power of **technology** to create meaningful change, and I’m committed to improving my skills in **software development**, **machine learning**, and **open-source contributions**.
 
