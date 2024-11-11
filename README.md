@@ -1,7 +1,5 @@
 # 👋 Hello, I'm **Jaswitha Dabbiru**! 
 
-
-
 <h1 align="center">Hack Web3Conf</h1>
 <h1 align="center">GSSOC Alumni</h1>
 
