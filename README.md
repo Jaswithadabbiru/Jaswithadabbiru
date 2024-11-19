@@ -1,12 +1,73 @@
-# 👋 Hello, I'm **Jaswitha Dabbiru**! 
+# ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I'm Jaswitha Dabbiru!
 
-<h1 align="center">Hack Web3Conf</h1>
+Welcome to my GitHub profile! I’m a **Computer Science Engineering student** at **Vignan Institute of Engineering for Women**, passionate about developing creative solutions through code and contributing to the developer community.
+
+---
+
+## 🛠️ My Development Journey
+I’m currently focused on:  
+- 🚀 **Mastering Java** and building strong foundations in **Data Structures & Algorithms**.  
+- 🎯 Solving **coding challenges** on platforms like **LeetCode** and **CodeChef**.  
+- 🌟 Working on innovative projects to strengthen my portfolio and skills.  
+
+---
+
+## 🌟 Projects
+Here are some projects that I’ve been working on:
+
+### **1. Helmet Wear Detection System** 🚲  
+A safety-driven project ensuring helmets are worn before the engine starts.  
+- **Tech Stack**: Arduino, Ultrasonic, Flex, and Force Sensors.  
+- **Impact**: Promotes road safety in an innovative way.
+- 🌟 **Status**: Work in progress.
+
+### **2. Graphical Password Generator** 🔐  
+A visual tool designed to enhance password security.  
+- **Tech Stack**: Python, GUI Libraries.  
+- **Contributions**: Developed during Hacktoberfest 2024.  
+- 🌟 **Status**: Work in progress.
+
+### **3. Hack Web3Conf** 🌐  
+A project repository created for a Web3 hackathon.  
+- **Tech Stack**: Web3 technologies and tools.  
+- **Impact**: Explored decentralized solutions.
+- 🌟 **Status**: Work in progress.
+
+### **4. GirlScript Summer of Code 2024** 🌐
+Contributing to open-source through **GSSoC**, where I’m collaborating with developers worldwide on impactful projects, helping make knowledge and technology more accessible.
+
+---
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Jaswitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswithadabbiru&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswithadabbiru&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+I am always eager to collaborate on projects, contribute to open-source, or discuss ideas. If you’re interested in topics like **technology** or **software development**, feel free to reach out:  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswitha.dabbiru@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswitha-dabbiru-bb45762a6/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaswithadabbiru)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaswitha_07)
+
+
+---
 <h1 align="center">GSSOC Alumni</h1>
 
 
 <div align="center">
 <div align="center">
-
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -19,70 +80,13 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-I’m a passionate **2nd-year Computer Science Engineering (CSE)** student at **Vignan Institute of Engineering for Women**. I believe in the power of **technology** to create meaningful change, and I’m committed to improving my skills in **software development**, **machine learning**, and **open-source contributions**.
+---
+## ⚡ Fun Fact
+When I’m not coding or working on projects, you’ll find me solving **algorithmic puzzles**, participating in **coding marathons**, or indulging in my hobbies like **reading, drawing, and cooking**.  
 
 ---
 
-## 🚀 What Drives Me:
-
-- **Curiosity**: I’m always seeking new challenges that stretch my problem-solving skills and expand my knowledge.
-- **Innovation**: I aspire to build **cutting-edge solutions** that make a difference in people's lives, whether through intelligent systems or impactful apps.
-- **Collaboration**: I love **working with like-minded people** on projects that inspire and push boundaries.
-
----
-
-## 🔍 Areas of Interest:
-- **Software Development**: From **building scalable web applications** to solving algorithmic puzzles, I enjoy the entire development lifecycle.
-- **Open-Source**: Passionate about the **open-source ecosystem**, contributing to projects that benefit the global developer community.
-
----
-
-## 🛠️ Skills & Technologies:
-- **Programming Languages**: Python, Java, C
-- **Tools**: Git, GitHub, VS Code, Postman, Tinkercad, spyder, Jupyter Notebook
-- **Other**: Data Structures & Algorithms, Competitive Programming, Software Development
-
----
-
-## 🌍 Notable Projects & Contributions:
-
-### **1. Helmet Wear Detection System** 🚲
-A safety-driven project that ensures a helmet is worn before the engine starts. Using **Arduino**, **Ultrasonic**, **Flex**, and **Force Sensors**, it promotes road safety in an innovative way.
-
-### **2. DevDocsHub** 📚
-An all-in-one **Django-based platform** that brings programming language documentation, open-source resources, and tutorials together. Currently working on enhancing its functionality and user experience.
-
-### **3. GirlScript Summer of Code 2024** 🌐
-Contributing to open-source through **GSSoC**, where I’m collaborating with developers worldwide on impactful projects, helping make knowledge and technology more accessible.
-
----
-
-## 🛠️ My Development Journey:
-I’m currently focused on mastering **Java**, strengthening my skills in **Data Structures & Algorithms**, and diving into the world of **machine learning**. I also enjoy **solving coding challenges** and regularly participate in platforms like **LeetCode** and **CodeChef**.
-
----
-
-## 🤝 Let’s Connect:
-I am always eager to collaborate on projects, contribute to open-source, or just share knowledge and ideas. If you're interested in discussing **technology**, **software development**, or **AI**, feel free to reach out:
-
-- **LinkedIn**: [Jaswitha Dabbiru](https://www.linkedin.com/in/jaswithadabbiru/)
-- **Email**: [jaswithadabbiru@gmail.com](mailto:jaswithadabbiru@gmail.com)
-
----
-
-## ⚡ Fun Fact:
-When I’m not coding or working on projects, you’ll find me exploring the **latest in AI**, reading **tech blogs**, or learning about **emerging technologies**. And yes, I’m a big fan of **coding marathons** and **algorithmic puzzles** that keep me on my toes! 💻
-
----
-
-Thank you for visiting my profile! If you share a passion for technology, innovation, or open-source, let’s connect and create something amazing together! 🌟
-
-
-Jaswithadabbiru/Jaswithadabbiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 Let’s Build Something Amazing!
+Thank you for visiting my profile! Let’s connect and work together to create impactful projects and contribute to the tech community. 🌟  
