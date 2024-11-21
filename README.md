@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!">
 </p>
-# ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) **Hi, I'm Jaswitha Dabbiru!**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm <b>Jaswitha Dabbiru!</b>
+</h1>
+
 
 
 Welcome to my GitHub profile! I’m a **Computer Science Engineering student** at **Vignan Institute of Engineering for Women**, passionate about developing creative solutions through code and contributing to the developer community.
