@@ -28,7 +28,7 @@ A safety-driven project ensuring helmets are worn before the engine starts.
 - **Impact**: Promotes road safety in an innovative way.
 - 🌟 **Status**: Work in progress.
 
-### **2. Book & Study Material Rental App 📚📝
+### 2. Book & Study Material Rental App 📚📝
 - **Description**: A platform is being designed to connect book and study material owners with readers, enabling easy and affordable access to educational resources.
 - **Features**:
   - **Affordable Rentals**: Users can rent books and important study materials (e.g., formula sheets, notes) at a low cost.
