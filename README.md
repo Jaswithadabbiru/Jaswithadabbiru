@@ -28,11 +28,16 @@ A safety-driven project ensuring helmets are worn before the engine starts.
 - **Impact**: Promotes road safety in an innovative way.
 - 🌟 **Status**: Work in progress.
 
-### **2. Graphical Password Generator** 🔐  
-A visual tool designed to enhance password security.  
-- **Tech Stack**: Python, GUI Libraries.  
-- **Contributions**: Developed during Hacktoberfest 2024.  
-- 🌟 **Status**: Work in progress.
+### **2. Book & Study Material Rental App 📚📝
+- **Description**: A platform is being designed to connect book and study material owners with readers, enabling easy and affordable access to educational resources.
+- **Features**:
+  - **Affordable Rentals**: Users can rent books and important study materials (e.g., formula sheets, notes) at a low cost.
+  - **Earn Pocket Money**: Owners can rent out their books and study materials to earn extra income.
+  - **Wide Range of Resources**: Supports a variety of materials, including textbooks, formula sheets, and personalized notes.
+  - User-friendly interface for browsing available resources.
+  - Secure login and profile management for both renters and owners.
+  - Real-time inventory tracking and automated due-date notifications.
+  - under progress
 
 ### **3. Hack Web3Conf** 🌐  
 A project repository created for a Web3 hackathon.  
