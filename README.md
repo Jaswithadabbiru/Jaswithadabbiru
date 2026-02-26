@@ -1,104 +1,73 @@
+<h1 align="center">Jaswitha Dabbiru</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!">
+Backend & Distributed Systems Enthusiast | Java • Spring Boot • Microservices
 </p>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm <b>Jaswitha Dabbiru!</b>
-</h1>
-
-
-
-Welcome to my GitHub profile! I’m a **Computer Science Engineering student** at **Vignan Institute of Engineering for Women**, passionate about developing creative solutions through code and contributing to the developer community.
 
 ---
 
-## 🛠️ My Development Journey
-I’m currently focused on:  
-- 🚀 **Mastering Java** and building strong foundations in **Data Structures & Algorithms**.  
-- 🎯 Solving **coding challenges** on platforms like **LeetCode** and **CodeChef**.  
-- 🌟 Working on innovative projects to strengthen my portfolio and skills.  
+## About Me
+
+Computer Science undergraduate (2023–2027) focused on building reliable, scalable backend systems.  
+
+Interested in:
+- Distributed systems  
+- Financial infrastructure engineering  
+- Event-driven architectures  
+- High-availability backend services  
 
 ---
 
-## 🌟 Projects
-Here are some projects that I’ve been working on:
+## Technical Focus
 
-### **1. Helmet Wear Detection System** 🚲  
-A safety-driven project ensuring helmets are worn before the engine starts.  
-- **Tech Stack**: Arduino, Ultrasonic, Flex, and Force Sensors.  
-- **Impact**: Promotes road safety in an innovative way.
-- 🌟 **Status**: Work in progress.
-
-### 2. Book & Study Material Rental App 📚📝
-- **Description**: A platform is being designed to connect book and study material owners with readers, enabling easy and affordable access to educational resources.
-- **Features**:
-  - **Affordable Rentals**: Users can rent books and important study materials (e.g., formula sheets, notes) at a low cost.
-  - **Earn Pocket Money**: Owners can rent out their books and study materials to earn extra income.
-  - **Wide Range of Resources**: Supports a variety of materials, including textbooks, formula sheets, and personalized notes.
-  - User-friendly interface for browsing available resources.
-  - Secure login and profile management for both renters and owners.
-  - Real-time inventory tracking and automated due-date notifications.
-  - under progress
-
-### **3. Hack Web3Conf** 🌐  
-A project repository created for a Web3 hackathon.  
-- **Tech Stack**: Web3 technologies and tools.  
-- **Impact**: Explored decentralized solutions.
-- 🌟 **Status**: Work in progress.
-
-### **4. GirlScript Summer of Code 2024** 🌐
-Contributing to open-source through **GSSoC**, where I’m collaborating with developers worldwide on impactful projects, helping make knowledge and technology more accessible.
+- **Languages:** Java, C++, C, SQL, TypeScript, HTML, CSS,  
+- **Backend:** Spring Boot, REST APIs, JPA/Hibernate, Microservices
+- **Frameworks:** : React.js, Tailwind CSS, Django  
+- **Databases:** PostgreSQL, MySQL, Firebase  
+- **Testing & DevOps:** JUnit, Mockito, Git, GitHub Actions (CI/CD)  
+- **Concepts:** ACID Transactions, Idempotency, Optimistic Locking, Circuit Breaker, Application Resiliency  
 
 ---
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Selected Projects
+
+### High-Availability Payment Gateway
+Java • Spring Boot • PostgreSQL  
+
+- Built ACID-compliant transactional transfer service  
+- Implemented idempotency controls for duplicate request handling  
+- Designed layered REST architecture using JPA/Hibernate  
+- Integrated Resilience4j circuit breaker for fault tolerance  
+- Added JUnit/Mockito test coverage with CI/CD via GitHub Actions  
 
 ---
 
-## 📈 GitHub Stats
-![Jaswitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswithadabbiru&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswithadabbiru&layout=compact&theme=radical)
+### Voxence – AI Communication Coaching Platform
+React • TypeScript • Firebase  
+
+- Developed full-stack platform with secure authentication  
+- Implemented real-time speech processing pipeline  
+- Integrated LLM-based feedback system  
 
 ---
 
-## 🤝 Let’s Connect
-I am always eager to collaborate on projects, contribute to open-source, or discuss ideas. If you’re interested in topics like **technology** or **software development**, feel free to reach out:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswitha.dabbiru@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswitha-dabbiru-bb45762a6/)
+## Open Source
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaswithadabbiru)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaswitha_07)
+Contributor – GirlScript Summer of Code 2024  
 
-
----
-<h1 align="center">GSSOC Alumni</h1>
-
-
-<div align="center">
-<div align="center">
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-</div>
-
----
-## ⚡ Fun Fact
-When I’m not coding or working on projects, you’ll find me solving **algorithmic puzzles**, participating in **coding marathons**, or indulging in my hobbies like **reading, drawing, and cooking**.  
+Collaborated on open-source repositories and feature improvements.
 
 ---
 
-## 💡 Let’s Build Something Amazing!
-Thank you for visiting my profile! Let’s connect and work together to create impactful projects and contribute to the tech community. 🌟  
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswithadabbiru&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswithadabbiru&layout=compact)
+
+---
+
+## Connect
+
+Email: jaswitha.dabbiru@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jaswitha-dabbiru-dvgr25rr19
+GitHub: https://github.com/Jaswithadabbiru  
+Portfolio:  https://jaswithaportfolio.vercel.app/
